@@ -1,0 +1,17 @@
+body {background-color: rgb(107, 196, 129);
+}
+h2{color: rgb(5, 5, 5);
+text-align: center;
+font-size: larger;
+font-style: italic;
+}
+p {color: black;
+}
+p {
+    color: black;
+text-align: center;
+}
+title {
+    text-align: center;
+    font-style: italic;
+}
